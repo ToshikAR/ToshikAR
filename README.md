@@ -1,5 +1,10 @@
 ![Header](https://github.com/ToshikAR/ToshikAR/blob/main/assets/header2.png)
-## Hi there 👋
+
+## Python Software Engineering
+
+![Python](https://img.shields.io/badge/Python-070D23?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-070D23?style=for-the-badge&logo=mysql&logoColor=3AE2CE)
+![C#](https://img.shields.io/badge/C%23-070D23?style=for-the-badge&logo=c)
 
 <!--
 **ToshikAR/ToshikAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
