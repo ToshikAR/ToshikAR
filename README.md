@@ -2,6 +2,7 @@
 
 ## Python Software Engineering
 
+## Languages and Tools
 ![Python](https://img.shields.io/badge/Python-070D23?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-070D23?style=for-the-badge&logo=mysql&logoColor=3AE2CE)
 ![C#](https://img.shields.io/badge/C%23-070D23?style=for-the-badge&logo=c)
