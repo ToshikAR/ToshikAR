@@ -4,7 +4,9 @@
 
 ![Python](https://img.shields.io/badge/Python-070D23?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-070D23?style=for-the-badge&logo=mysql&logoColor=3AE2CE)
-![C#](https://img.shields.io/badge/C%23-070D23?style=for-the-badge&logo=c)
+![HTML](https://img.shields.io/badge/HTML-070D23?style=for-the-badge&logo=html5&logoColor=D15E36)
+![CSS](https://img.shields.io/badge/CSS-070D23?style=for-the-badge&logo=css3&logoColor=3658DE)
+![C#](https://img.shields.io/badge/C%23-070D23?style=for-the-badge&logo=c&logoColor=5A47D2)
 
 <!--
 **ToshikAR/ToshikAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
